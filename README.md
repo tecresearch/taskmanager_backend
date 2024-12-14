@@ -31,3 +31,70 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/tecresearch/taskmanager.git
+
+
+cd taskmanager
+npm install
+npm start
+
+💻 Usage
+Once TaskManager is running, you can use the following features:
+
+Create a Task
+Click on the Add Task button.
+Enter the task title, description, and set a category (optional).
+Set a due date if necessary and click Save.
+Update a Task
+Hover over a task in the task list.
+Click the Edit button to modify the task details.
+After making your changes, click Save.
+Delete a Task
+Hover over a task in the task list.
+Click the Delete button to remove the task.
+Mark a Task as Complete
+Click the checkbox next to a task to mark it as complete.
+The task will be moved to the "Completed" section.
+Filtering Tasks
+You can filter tasks by:
+
+Category (e.g., Work, Personal)
+Due date (e.g., Today, Tomorrow)
+Completion status (e.g., Completed, Pending)
+🧩 Features
+Task Organization: Group tasks by categories like Work, Personal, or Urgent.
+Prioritize: Assign priority levels to tasks to focus on what matters most.
+Notifications: Get notified about upcoming deadlines.
+Responsive UI: Optimized for mobile and desktop usage.
+🖥️ Technologies Used
+Frontend: React.js, Redux, Material-UI
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT (JSON Web Tokens)
+Styling: CSS, Styled Components
+
+
+License
+TaskManager is open-source software licensed under the MIT License.
+
+📬 Contact
+For any issues, suggestions, or questions, feel free to open an issue in the GitHub repository or reach out to me directly via email.
+
+Email: bnlv1212@example.com
+GitHub: tecresearch
+🌟 Contributing
+Contributions are always welcome! If you'd like to improve TaskManager, feel free to fork the repository and submit a pull request. Please make sure to follow the code style and write tests for any new features.
+
+🔧 Future Enhancements
+ User authentication and account management (sign up/login).
+ Integration with Google Calendar or Trello.
+ Dark mode theme.
+ Task sharing with collaborators.
+
+💡 Screenshots
+
+![Register_](https://github.com/user-attachments/assets/3bcbad35-d589-4d42-b0ae-24d7994fe7a9)
+
+![login](https://github.com/user-attachments/assets/9bf5ad1d-7b96-4542-b9d2-ba417a6fc5ac)
+
+![task_manager](https://github.com/user-attachments/assets/8e382271-c607-4a1c-a714-280d55a4b670)
+
