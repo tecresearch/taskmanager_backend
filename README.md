@@ -92,9 +92,6 @@ Contributions are always welcome! If you'd like to improve TaskManager, feel fre
 
 💡 Screenshots
 
-![Register_](https://github.com/user-attachments/assets/3bcbad35-d589-4d42-b0ae-24d7994fe7a9)
+![Login Image](./testing/login.jpg)
 
-![login](https://github.com/user-attachments/assets/9bf5ad1d-7b96-4542-b9d2-ba417a6fc5ac)
-
-![task_manager](https://github.com/user-attachments/assets/8e382271-c607-4a1c-a714-280d55a4b670)
 
