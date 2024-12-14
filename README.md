@@ -1,6 +1,6 @@
 # TaskManager
 
-![TaskManager Logo](https://via.placeholder.com/800x200?text=TaskManager+Logo)
+
 
 ## 📋 Project Description
 
@@ -144,6 +144,8 @@ Contributions are always welcome! If you'd like to improve TaskManager, feel fre
 Here's a sneak peek at the login screen of TaskManager:
 
 ![Login Image](./testing/login.jpg)
+![Login Image](./testing/task_manager_view.jpg)
+
 
 ---
 
